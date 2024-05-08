@@ -1,0 +1,27 @@
+{
+  "assets": [],
+  "build": {
+    "build_number": 0,
+    "build_time": 0,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "icon/qunarIcon.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashText": "Powered by Auto.js Pro",
+    "stableMode": true
+  },
+  "main": "main.js",
+  "name": "去哪儿模拟",
+  "optimization": {
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "com.yuxiang.autojs.qunar.app",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "2.0.5"
+}

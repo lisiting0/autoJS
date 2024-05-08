@@ -1,0 +1,28 @@
+{
+  "name": "com.yuxiang.autojs.zh.app",
+  "version": "1.1.1",
+  "private": true,
+  "scripts": {
+    "build": "pwsh build.ps1",
+    "pack": "pwsh pack.ps1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@autojs/types-pro9": "^9.3.9",
+    "@types/node": "^18.0.6",
+    "@types/webpack": "^5.28.0",
+    "app-base-v9": "file:../app-base-v9",
+    "date-fns": "^2.29.1",
+    "date-fns-timezone": "^0.1.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4",
+    "ui-selector-ext-v9": "file:../ui-selector-ext-v9",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  },
+  "dependencies": {
+    "@microsoft/signalr": "^5.0.17",
+    "eventsource": "^2.0.2",
+    "ws": "^7.5.9"
+  }
+}

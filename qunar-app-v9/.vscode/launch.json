@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.0.1",
+    "configurations": [
+        {
+            "type": "autojs",
+            "request": "launch",
+            "main": "'D:/Work/YuXiang-dev/AutoJs/YuXiang.Autojs/qunar-app-v9/dist/main.node.js'",
+            "stopOnEntry": true,
+            "name": "[Auto.js Pro调试]使用最近设备"
+        }
+    ]
+}

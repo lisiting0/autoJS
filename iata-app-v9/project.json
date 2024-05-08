@@ -1,0 +1,31 @@
+{
+  "assets": [],
+  "build": {
+    "build_number": 0,
+    "build_time": 0,
+    "release": false
+  },
+  "ignore": [
+    ".vscode",
+    "build"
+  ],
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "icon/icon.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashText": "IATA-ASD查询模拟",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "IATA-ASD查询模拟",
+  "optimization": {
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "com.yuxiang.autojs.iata.app",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "2.0.0"
+}

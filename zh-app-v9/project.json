@@ -1,0 +1,38 @@
+{
+  "assets": [],
+  "build": {
+    "build_number": 0,
+    "build_time": 0,
+    "release": false
+  },
+  "ignore": [
+    "build",
+    "src",
+    "node_modules",
+    "out"
+  ],
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "icon/icon.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashText": "ZH模拟v9",
+    "stableMode": false
+  },
+  "main": "dist/main.node.js",
+  "name": "ZH模拟v9",
+  "optimization": {
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "permissionConfig": {
+    "requestListOnStartup": [
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ]
+  },
+  "packageName": "com.yuxiang.autojs.zh.app",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.9"
+}

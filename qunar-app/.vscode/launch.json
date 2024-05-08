@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "autojs",
+            "request": "launch",
+            "stopOnEntry": true,
+            "device": "a018cc5824979713",
+            "name": "[Auto.js Pro调试]Xiaomi Redmi 7A a018cc5824979713"
+        },
+        {
+            "type": "autojs",
+            "request": "launch",
+            "stopOnEntry": true,
+            "device": "03b3e1a3f575c25b",
+            "name": "[Auto.js Pro调试]Redmi M2006C3LC 03b3e1a3f575c25b"
+        }
+    ]
+}

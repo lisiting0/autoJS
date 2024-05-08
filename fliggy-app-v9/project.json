@@ -1,0 +1,33 @@
+{
+  "assets": [],
+  "build": {
+    "build_number": 0,
+    "build_time": 0,
+    "release": false
+  },
+  "ignore": [
+    "build",
+    "src",
+    "node_modules",
+    "out"
+  ],
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "icon/icon.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashText": "飞猪",
+    "stableMode": false
+  },
+  "main": "dist/main.node.js",
+  "name": "飞猪",
+  "optimization": {
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "com.yuxiang.autojs.fliggy.app",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}

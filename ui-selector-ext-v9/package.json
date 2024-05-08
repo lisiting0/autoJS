@@ -1,0 +1,16 @@
+{
+  "name": "ui-selector-ext-v9",
+  "version": "1.0.0",
+  "description": "UI selector extensions for AutoJs v9",
+  "main": "out/index.js",
+  "author": "YuXiang",
+  "license": "ISC",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@autojs/types-pro9": "^9.3.9",
+    "prettier": "2.7.1",
+    "typescript": "^4.9.4"
+  }
+}
